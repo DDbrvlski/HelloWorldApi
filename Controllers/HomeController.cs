@@ -9,7 +9,7 @@ namespace WebApplication2.Controllers
         [HttpGet(Name = "GetHello")]
         public string Get()
         {
-            return "Hello Damian";
+            return "Hello World";
         }
     }
 }
