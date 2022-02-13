@@ -25,3 +25,4 @@ C:\Users\Damian\Desktop\Zadania studia\CS\WebApplication2\obj\Debug\net5.0\WebAp
 C:\Users\Damian\Desktop\Zadania studia\CS\WebApplication2\obj\Debug\net5.0\ref\WebApplication2.dll
 C:\Users\Damian\Desktop\Zadania studia\CS\WebApplication2\obj\Debug\net5.0\WebApplication2.pdb
 C:\Users\Damian\Desktop\Zadania studia\CS\WebApplication2\obj\Debug\net5.0\WebApplication2.genruntimeconfig.cache
+C:\Users\Damian\Desktop\Zadania studia\CS\WebApplication2\obj\Debug\net5.0\WebApplication2.csproj.AssemblyReference.cache
